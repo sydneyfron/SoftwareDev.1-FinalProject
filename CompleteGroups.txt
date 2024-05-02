@@ -1,0 +1,198 @@
+GroupID: 99
+House in: Lower West
+GroupID: 40
+House in: Foy
+GroupID: 8
+House in: New Townhouses
+GroupID: 5
+House in: New Townhouses
+GroupID: 14
+House in: Foy
+GroupID: 31
+House in: Foy
+GroupID: 91
+House in: New Townhouses
+GroupID: 62
+House in: Upper West
+GroupID: 76
+House in: Lower West
+GroupID: 9
+House in: Foy
+GroupID: 38
+House in: Upper West
+GroupID: 47
+House in: New Townhouses
+GroupID: 58
+House in: Lower West
+GroupID: 97
+House in: New Townhouses
+GroupID: 16
+House in: Foy
+GroupID: 54
+House in: Upper West
+GroupID: 81
+House in: Upper West
+GroupID: 93
+House in: New Townhouses
+GroupID: 59
+House in: Upper West
+GroupID: 69
+House in: Lower West
+GroupID: 36
+House in: New Townhouses
+GroupID: 21
+House in: Lower West
+GroupID: 50
+House in: Foy
+GroupID: 67
+House in: Upper West
+GroupID: 94
+House in: Upper West
+GroupID: 15
+House in: Foy
+GroupID: 24
+House in: New Townhouses
+GroupID: 29
+House in: New Townhouses
+GroupID: 63
+House in: Lower West
+GroupID: 70
+House in: Foy
+GroupID: 19
+House in: New Townhouses
+GroupID: 78
+House in: Foy
+GroupID: 13
+House in: Upper West
+GroupID: 30
+House in: Lower West
+GroupID: 32
+House in: Upper West
+GroupID: 34
+House in: Lower West
+GroupID: 7
+House in: Foy
+GroupID: 27
+House in: Upper West
+GroupID: 45
+House in: New Townhouses
+GroupID: 82
+House in: Lower West
+GroupID: 25
+House in: New Townhouses
+GroupID: 49
+House in: New Townhouses
+GroupID: 51
+House in: Lower West
+GroupID: 56
+House in: Foy
+GroupID: 12
+House in: Upper West
+GroupID: 18
+House in: Lower West
+GroupID: 90
+House in: Foy
+GroupID: 39
+House in: Upper West
+GroupID: 44
+House in: New Townhouses
+GroupID: 60
+House in: Lower West
+GroupID: 71
+House in: Foy
+GroupID: 6
+House in: Foy
+GroupID: 28
+House in: New Townhouses
+GroupID: 37
+House in: Lower West
+GroupID: 46
+House in: New Townhouses
+GroupID: 88
+House in: Upper West
+GroupID: 55
+House in: Foy
+GroupID: 80
+House in: Upper West
+GroupID: 35
+House in: New Townhouses
+GroupID: 1
+House in: New Townhouses
+GroupID: 11
+House in: Foy
+GroupID: 75
+House in: Foy
+GroupID: 73
+House in: Upper West
+GroupID: 26
+House in: Upper West
+GroupID: 10
+House in: Foy
+GroupID: 53
+House in: New Townhouses
+GroupID: 77
+House in: Upper West
+GroupID: 84
+House in: Foy
+GroupID: 4
+House in: Lower West
+GroupID: 20
+House in: New Townhouses
+GroupID: 64
+House in: New Townhouses
+GroupID: 72
+House in: Foy
+GroupID: 96
+House in: Lower West
+GroupID: 98
+House in: New Townhouses
+GroupID: 83
+House in: Upper West
+GroupID: 23
+House in: Upper West
+GroupID: 79
+House in: Lower West
+GroupID: 85
+House in: New Townhouses
+GroupID: 57
+House in: Lower West
+GroupID: 65
+House in: Upper West
+GroupID: 22
+House in: New Townhouses
+GroupID: 61
+House in: Upper West
+GroupID: 3
+House in: Foy
+GroupID: 41
+House in: Upper West
+GroupID: 92
+House in: Upper West
+GroupID: 17
+House in: Upper West
+GroupID: 66
+House in: Lower West
+GroupID: 87
+House in: Lower West
+GroupID: 48
+House in: Upper West
+GroupID: 2
+House in: Upper West
+GroupID: 33
+House in: Lower West
+GroupID: 52
+House in: Upper West
+GroupID: 43
+House in: Upper West
+GroupID: 86
+House in: Lower West
+GroupID: 68
+House in: Lower West
+GroupID: 95
+House in: Lower West
+GroupID: 42
+House in: Lower West
+GroupID: 89
+House in: Upper West
+GroupID: 74
+House in: Upper West

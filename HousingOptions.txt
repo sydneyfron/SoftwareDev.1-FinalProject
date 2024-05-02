@@ -1,0 +1,15 @@
+Name: Foy
+People Per House: 10
+Number of Houses: 21
+
+Name: New Townhouses
+People Per House: 10
+Number of Houses: 24
+
+Name: Upper West
+People Per House: 10
+Number of Houses: 30
+
+Name: Lower West
+People Per House: 10
+Number of Houses: 30

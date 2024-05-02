@@ -1,0 +1,1964 @@
+CWID: 20000001
+Priority points: 17
+CWID: 20000002
+Priority points: 15
+CWID: 20000003
+Priority points: 22
+CWID: 20000004
+Priority points: 21
+CWID: 20000005
+Priority points: 18
+CWID: 20000006
+Priority points: 11
+CWID: 20000007
+Priority points: 15
+CWID: 20000008
+Priority points: 24
+CWID: 20000009
+Priority points: 16
+CWID: 20000010
+Priority points: 16
+CWID: 20000011
+Priority points: 10
+CWID: 20000012
+Priority points: 23
+CWID: 20000013
+Priority points: 12
+CWID: 20000014
+Priority points: 11
+CWID: 20000015
+Priority points: 14
+CWID: 20000016
+Priority points: 21
+CWID: 20000017
+Priority points: 12
+CWID: 20000018
+Priority points: 20
+CWID: 20000019
+Priority points: 11
+CWID: 20000020
+Priority points: 26
+CWID: 20000021
+Priority points: 15
+CWID: 20000022
+Priority points: 12
+CWID: 20000023
+Priority points: 14
+CWID: 20000024
+Priority points: 13
+CWID: 20000025
+Priority points: 18
+CWID: 20000026
+Priority points: 22
+CWID: 20000027
+Priority points: 11
+CWID: 20000028
+Priority points: 22
+CWID: 20000029
+Priority points: 11
+CWID: 20000030
+Priority points: 26
+CWID: 20000031
+Priority points: 19
+CWID: 20000032
+Priority points: 18
+CWID: 20000033
+Priority points: 25
+CWID: 20000034
+Priority points: 19
+CWID: 20000035
+Priority points: 15
+CWID: 20000036
+Priority points: 16
+CWID: 20000037
+Priority points: 12
+CWID: 20000038
+Priority points: 19
+CWID: 20000039
+Priority points: 10
+CWID: 20000040
+Priority points: 17
+CWID: 20000041
+Priority points: 22
+CWID: 20000042
+Priority points: 22
+CWID: 20000043
+Priority points: 22
+CWID: 20000044
+Priority points: 12
+CWID: 20000045
+Priority points: 20
+CWID: 20000046
+Priority points: 23
+CWID: 20000047
+Priority points: 21
+CWID: 20000048
+Priority points: 19
+CWID: 20000049
+Priority points: 24
+CWID: 20000050
+Priority points: 24
+CWID: 20000051
+Priority points: 22
+CWID: 20000052
+Priority points: 13
+CWID: 20000053
+Priority points: 13
+CWID: 20000054
+Priority points: 12
+CWID: 20000055
+Priority points: 24
+CWID: 20000056
+Priority points: 25
+CWID: 20000057
+Priority points: 12
+CWID: 20000058
+Priority points: 20
+CWID: 20000059
+Priority points: 13
+CWID: 20000060
+Priority points: 24
+CWID: 20000061
+Priority points: 16
+CWID: 20000062
+Priority points: 24
+CWID: 20000063
+Priority points: 20
+CWID: 20000064
+Priority points: 17
+CWID: 20000065
+Priority points: 26
+CWID: 20000066
+Priority points: 12
+CWID: 20000067
+Priority points: 22
+CWID: 20000068
+Priority points: 11
+CWID: 20000069
+Priority points: 19
+CWID: 20000070
+Priority points: 18
+CWID: 20000071
+Priority points: 26
+CWID: 20000072
+Priority points: 13
+CWID: 20000073
+Priority points: 26
+CWID: 20000074
+Priority points: 26
+CWID: 20000075
+Priority points: 25
+CWID: 20000076
+Priority points: 10
+CWID: 20000077
+Priority points: 21
+CWID: 20000078
+Priority points: 25
+CWID: 20000079
+Priority points: 15
+CWID: 20000080
+Priority points: 23
+CWID: 20000081
+Priority points: 19
+CWID: 20000082
+Priority points: 18
+CWID: 20000083
+Priority points: 20
+CWID: 20000084
+Priority points: 17
+CWID: 20000085
+Priority points: 25
+CWID: 20000086
+Priority points: 23
+CWID: 20000087
+Priority points: 21
+CWID: 20000088
+Priority points: 20
+CWID: 20000089
+Priority points: 25
+CWID: 20000090
+Priority points: 13
+CWID: 20000091
+Priority points: 22
+CWID: 20000092
+Priority points: 11
+CWID: 20000093
+Priority points: 15
+CWID: 20000094
+Priority points: 10
+CWID: 20000095
+Priority points: 24
+CWID: 20000096
+Priority points: 16
+CWID: 20000097
+Priority points: 14
+CWID: 20000098
+Priority points: 21
+CWID: 20000099
+Priority points: 17
+CWID: 20000100
+Priority points: 21
+CWID: 20000101
+Priority points: 12
+CWID: 20000102
+Priority points: 19
+CWID: 20000103
+Priority points: 24
+CWID: 20000104
+Priority points: 22
+CWID: 20000105
+Priority points: 25
+CWID: 20000106
+Priority points: 12
+CWID: 20000107
+Priority points: 21
+CWID: 20000108
+Priority points: 16
+CWID: 20000109
+Priority points: 14
+CWID: 20000110
+Priority points: 10
+CWID: 20000111
+Priority points: 21
+CWID: 20000112
+Priority points: 15
+CWID: 20000113
+Priority points: 25
+CWID: 20000114
+Priority points: 17
+CWID: 20000115
+Priority points: 20
+CWID: 20000116
+Priority points: 22
+CWID: 20000117
+Priority points: 15
+CWID: 20000118
+Priority points: 13
+CWID: 20000119
+Priority points: 12
+CWID: 20000120
+Priority points: 22
+CWID: 20000121
+Priority points: 18
+CWID: 20000122
+Priority points: 23
+CWID: 20000123
+Priority points: 18
+CWID: 20000124
+Priority points: 14
+CWID: 20000125
+Priority points: 18
+CWID: 20000126
+Priority points: 25
+CWID: 20000127
+Priority points: 18
+CWID: 20000128
+Priority points: 12
+CWID: 20000129
+Priority points: 22
+CWID: 20000130
+Priority points: 18
+CWID: 20000131
+Priority points: 23
+CWID: 20000132
+Priority points: 26
+CWID: 20000133
+Priority points: 14
+CWID: 20000134
+Priority points: 26
+CWID: 20000135
+Priority points: 25
+CWID: 20000136
+Priority points: 17
+CWID: 20000137
+Priority points: 19
+CWID: 20000138
+Priority points: 24
+CWID: 20000139
+Priority points: 17
+CWID: 20000140
+Priority points: 16
+CWID: 20000141
+Priority points: 17
+CWID: 20000142
+Priority points: 19
+CWID: 20000143
+Priority points: 11
+CWID: 20000144
+Priority points: 24
+CWID: 20000145
+Priority points: 25
+CWID: 20000146
+Priority points: 17
+CWID: 20000147
+Priority points: 13
+CWID: 20000148
+Priority points: 20
+CWID: 20000149
+Priority points: 24
+CWID: 20000150
+Priority points: 19
+CWID: 20000151
+Priority points: 24
+CWID: 20000152
+Priority points: 15
+CWID: 20000153
+Priority points: 11
+CWID: 20000154
+Priority points: 11
+CWID: 20000155
+Priority points: 24
+CWID: 20000156
+Priority points: 20
+CWID: 20000157
+Priority points: 25
+CWID: 20000158
+Priority points: 26
+CWID: 20000159
+Priority points: 17
+CWID: 20000160
+Priority points: 25
+CWID: 20000161
+Priority points: 10
+CWID: 20000162
+Priority points: 23
+CWID: 20000163
+Priority points: 13
+CWID: 20000164
+Priority points: 18
+CWID: 20000165
+Priority points: 13
+CWID: 20000166
+Priority points: 24
+CWID: 20000167
+Priority points: 25
+CWID: 20000168
+Priority points: 17
+CWID: 20000169
+Priority points: 10
+CWID: 20000170
+Priority points: 10
+CWID: 20000171
+Priority points: 26
+CWID: 20000172
+Priority points: 18
+CWID: 20000173
+Priority points: 22
+CWID: 20000174
+Priority points: 21
+CWID: 20000175
+Priority points: 10
+CWID: 20000176
+Priority points: 14
+CWID: 20000177
+Priority points: 16
+CWID: 20000178
+Priority points: 10
+CWID: 20000179
+Priority points: 19
+CWID: 20000180
+Priority points: 26
+CWID: 20000181
+Priority points: 24
+CWID: 20000182
+Priority points: 20
+CWID: 20000183
+Priority points: 18
+CWID: 20000184
+Priority points: 21
+CWID: 20000185
+Priority points: 25
+CWID: 20000186
+Priority points: 17
+CWID: 20000187
+Priority points: 14
+CWID: 20000188
+Priority points: 23
+CWID: 20000189
+Priority points: 12
+CWID: 20000190
+Priority points: 13
+CWID: 20000191
+Priority points: 23
+CWID: 20000192
+Priority points: 19
+CWID: 20000193
+Priority points: 11
+CWID: 20000194
+Priority points: 15
+CWID: 20000195
+Priority points: 14
+CWID: 20000196
+Priority points: 19
+CWID: 20000197
+Priority points: 25
+CWID: 20000198
+Priority points: 15
+CWID: 20000199
+Priority points: 16
+CWID: 20000200
+Priority points: 13
+CWID: 20000201
+Priority points: 16
+CWID: 20000202
+Priority points: 22
+CWID: 20000203
+Priority points: 17
+CWID: 20000204
+Priority points: 16
+CWID: 20000205
+Priority points: 22
+CWID: 20000206
+Priority points: 15
+CWID: 20000207
+Priority points: 25
+CWID: 20000208
+Priority points: 25
+CWID: 20000209
+Priority points: 22
+CWID: 20000210
+Priority points: 11
+CWID: 20000211
+Priority points: 24
+CWID: 20000212
+Priority points: 14
+CWID: 20000213
+Priority points: 17
+CWID: 20000214
+Priority points: 15
+CWID: 20000215
+Priority points: 14
+CWID: 20000216
+Priority points: 18
+CWID: 20000217
+Priority points: 19
+CWID: 20000218
+Priority points: 10
+CWID: 20000219
+Priority points: 21
+CWID: 20000220
+Priority points: 13
+CWID: 20000221
+Priority points: 18
+CWID: 20000222
+Priority points: 26
+CWID: 20000223
+Priority points: 12
+CWID: 20000224
+Priority points: 16
+CWID: 20000225
+Priority points: 13
+CWID: 20000226
+Priority points: 19
+CWID: 20000227
+Priority points: 13
+CWID: 20000228
+Priority points: 11
+CWID: 20000229
+Priority points: 18
+CWID: 20000230
+Priority points: 22
+CWID: 20000231
+Priority points: 23
+CWID: 20000232
+Priority points: 21
+CWID: 20000233
+Priority points: 21
+CWID: 20000234
+Priority points: 12
+CWID: 20000235
+Priority points: 21
+CWID: 20000236
+Priority points: 18
+CWID: 20000237
+Priority points: 12
+CWID: 20000238
+Priority points: 22
+CWID: 20000239
+Priority points: 17
+CWID: 20000240
+Priority points: 22
+CWID: 20000241
+Priority points: 13
+CWID: 20000242
+Priority points: 10
+CWID: 20000243
+Priority points: 22
+CWID: 20000244
+Priority points: 20
+CWID: 20000245
+Priority points: 20
+CWID: 20000246
+Priority points: 20
+CWID: 20000247
+Priority points: 26
+CWID: 20000248
+Priority points: 12
+CWID: 20000249
+Priority points: 25
+CWID: 20000250
+Priority points: 15
+CWID: 20000251
+Priority points: 10
+CWID: 20000252
+Priority points: 12
+CWID: 20000253
+Priority points: 19
+CWID: 20000254
+Priority points: 20
+CWID: 20000255
+Priority points: 22
+CWID: 20000256
+Priority points: 19
+CWID: 20000257
+Priority points: 11
+CWID: 20000258
+Priority points: 19
+CWID: 20000259
+Priority points: 21
+CWID: 20000260
+Priority points: 19
+CWID: 20000261
+Priority points: 12
+CWID: 20000262
+Priority points: 16
+CWID: 20000263
+Priority points: 26
+CWID: 20000264
+Priority points: 15
+CWID: 20000265
+Priority points: 26
+CWID: 20000266
+Priority points: 16
+CWID: 20000267
+Priority points: 13
+CWID: 20000268
+Priority points: 24
+CWID: 20000269
+Priority points: 25
+CWID: 20000270
+Priority points: 11
+CWID: 20000271
+Priority points: 14
+CWID: 20000272
+Priority points: 20
+CWID: 20000273
+Priority points: 24
+CWID: 20000274
+Priority points: 24
+CWID: 20000275
+Priority points: 21
+CWID: 20000276
+Priority points: 13
+CWID: 20000277
+Priority points: 10
+CWID: 20000278
+Priority points: 22
+CWID: 20000279
+Priority points: 20
+CWID: 20000280
+Priority points: 10
+CWID: 20000281
+Priority points: 19
+CWID: 20000282
+Priority points: 17
+CWID: 20000283
+Priority points: 11
+CWID: 20000284
+Priority points: 26
+CWID: 20000285
+Priority points: 17
+CWID: 20000286
+Priority points: 13
+CWID: 20000287
+Priority points: 23
+CWID: 20000288
+Priority points: 25
+CWID: 20000289
+Priority points: 25
+CWID: 20000290
+Priority points: 12
+CWID: 20000291
+Priority points: 12
+CWID: 20000292
+Priority points: 14
+CWID: 20000293
+Priority points: 13
+CWID: 20000294
+Priority points: 15
+CWID: 20000295
+Priority points: 16
+CWID: 20000296
+Priority points: 25
+CWID: 20000297
+Priority points: 18
+CWID: 20000298
+Priority points: 26
+CWID: 20000299
+Priority points: 23
+CWID: 20000300
+Priority points: 24
+CWID: 20000301
+Priority points: 22
+CWID: 20000302
+Priority points: 26
+CWID: 20000303
+Priority points: 24
+CWID: 20000304
+Priority points: 15
+CWID: 20000305
+Priority points: 16
+CWID: 20000306
+Priority points: 17
+CWID: 20000307
+Priority points: 17
+CWID: 20000308
+Priority points: 18
+CWID: 20000309
+Priority points: 26
+CWID: 20000310
+Priority points: 26
+CWID: 20000311
+Priority points: 24
+CWID: 20000312
+Priority points: 23
+CWID: 20000313
+Priority points: 11
+CWID: 20000314
+Priority points: 22
+CWID: 20000315
+Priority points: 12
+CWID: 20000316
+Priority points: 18
+CWID: 20000317
+Priority points: 19
+CWID: 20000318
+Priority points: 26
+CWID: 20000319
+Priority points: 14
+CWID: 20000320
+Priority points: 17
+CWID: 20000321
+Priority points: 10
+CWID: 20000322
+Priority points: 12
+CWID: 20000323
+Priority points: 22
+CWID: 20000324
+Priority points: 24
+CWID: 20000325
+Priority points: 16
+CWID: 20000326
+Priority points: 11
+CWID: 20000327
+Priority points: 19
+CWID: 20000328
+Priority points: 17
+CWID: 20000329
+Priority points: 14
+CWID: 20000330
+Priority points: 15
+CWID: 20000331
+Priority points: 13
+CWID: 20000332
+Priority points: 16
+CWID: 20000333
+Priority points: 10
+CWID: 20000334
+Priority points: 17
+CWID: 20000335
+Priority points: 20
+CWID: 20000336
+Priority points: 23
+CWID: 20000337
+Priority points: 17
+CWID: 20000338
+Priority points: 23
+CWID: 20000339
+Priority points: 24
+CWID: 20000340
+Priority points: 23
+CWID: 20000341
+Priority points: 11
+CWID: 20000342
+Priority points: 18
+CWID: 20000343
+Priority points: 11
+CWID: 20000344
+Priority points: 23
+CWID: 20000345
+Priority points: 12
+CWID: 20000346
+Priority points: 10
+CWID: 20000347
+Priority points: 18
+CWID: 20000348
+Priority points: 25
+CWID: 20000349
+Priority points: 26
+CWID: 20000350
+Priority points: 22
+CWID: 20000351
+Priority points: 23
+CWID: 20000352
+Priority points: 25
+CWID: 20000353
+Priority points: 18
+CWID: 20000354
+Priority points: 12
+CWID: 20000355
+Priority points: 22
+CWID: 20000356
+Priority points: 26
+CWID: 20000357
+Priority points: 26
+CWID: 20000358
+Priority points: 13
+CWID: 20000359
+Priority points: 12
+CWID: 20000360
+Priority points: 16
+CWID: 20000361
+Priority points: 23
+CWID: 20000362
+Priority points: 16
+CWID: 20000363
+Priority points: 24
+CWID: 20000364
+Priority points: 18
+CWID: 20000365
+Priority points: 19
+CWID: 20000366
+Priority points: 15
+CWID: 20000367
+Priority points: 19
+CWID: 20000368
+Priority points: 16
+CWID: 20000369
+Priority points: 18
+CWID: 20000370
+Priority points: 10
+CWID: 20000371
+Priority points: 20
+CWID: 20000372
+Priority points: 21
+CWID: 20000373
+Priority points: 22
+CWID: 20000374
+Priority points: 24
+CWID: 20000375
+Priority points: 20
+CWID: 20000376
+Priority points: 20
+CWID: 20000377
+Priority points: 11
+CWID: 20000378
+Priority points: 19
+CWID: 20000379
+Priority points: 23
+CWID: 20000380
+Priority points: 21
+CWID: 20000381
+Priority points: 12
+CWID: 20000382
+Priority points: 26
+CWID: 20000383
+Priority points: 24
+CWID: 20000384
+Priority points: 10
+CWID: 20000385
+Priority points: 15
+CWID: 20000386
+Priority points: 24
+CWID: 20000387
+Priority points: 20
+CWID: 20000388
+Priority points: 11
+CWID: 20000389
+Priority points: 19
+CWID: 20000390
+Priority points: 20
+CWID: 20000391
+Priority points: 17
+CWID: 20000392
+Priority points: 24
+CWID: 20000393
+Priority points: 12
+CWID: 20000394
+Priority points: 24
+CWID: 20000395
+Priority points: 19
+CWID: 20000396
+Priority points: 23
+CWID: 20000397
+Priority points: 22
+CWID: 20000398
+Priority points: 25
+CWID: 20000399
+Priority points: 24
+CWID: 20000400
+Priority points: 22
+CWID: 20000401
+Priority points: 19
+CWID: 20000402
+Priority points: 15
+CWID: 20000403
+Priority points: 25
+CWID: 20000404
+Priority points: 22
+CWID: 20000405
+Priority points: 13
+CWID: 20000406
+Priority points: 13
+CWID: 20000407
+Priority points: 16
+CWID: 20000408
+Priority points: 10
+CWID: 20000409
+Priority points: 21
+CWID: 20000410
+Priority points: 10
+CWID: 20000411
+Priority points: 15
+CWID: 20000412
+Priority points: 11
+CWID: 20000413
+Priority points: 17
+CWID: 20000414
+Priority points: 14
+CWID: 20000415
+Priority points: 11
+CWID: 20000416
+Priority points: 16
+CWID: 20000417
+Priority points: 11
+CWID: 20000418
+Priority points: 20
+CWID: 20000419
+Priority points: 11
+CWID: 20000420
+Priority points: 26
+CWID: 20000421
+Priority points: 15
+CWID: 20000422
+Priority points: 12
+CWID: 20000423
+Priority points: 18
+CWID: 20000424
+Priority points: 14
+CWID: 20000425
+Priority points: 13
+CWID: 20000426
+Priority points: 18
+CWID: 20000427
+Priority points: 22
+CWID: 20000428
+Priority points: 11
+CWID: 20000429
+Priority points: 23
+CWID: 20000430
+Priority points: 12
+CWID: 20000431
+Priority points: 22
+CWID: 20000432
+Priority points: 14
+CWID: 20000433
+Priority points: 21
+CWID: 20000434
+Priority points: 22
+CWID: 20000435
+Priority points: 11
+CWID: 20000436
+Priority points: 18
+CWID: 20000437
+Priority points: 19
+CWID: 20000438
+Priority points: 14
+CWID: 20000439
+Priority points: 23
+CWID: 20000440
+Priority points: 17
+CWID: 20000441
+Priority points: 20
+CWID: 20000442
+Priority points: 23
+CWID: 20000443
+Priority points: 20
+CWID: 20000444
+Priority points: 24
+CWID: 20000445
+Priority points: 19
+CWID: 20000446
+Priority points: 16
+CWID: 20000447
+Priority points: 12
+CWID: 20000448
+Priority points: 25
+CWID: 20000449
+Priority points: 11
+CWID: 20000450
+Priority points: 14
+CWID: 20000451
+Priority points: 18
+CWID: 20000452
+Priority points: 13
+CWID: 20000453
+Priority points: 20
+CWID: 20000454
+Priority points: 22
+CWID: 20000455
+Priority points: 11
+CWID: 20000456
+Priority points: 18
+CWID: 20000457
+Priority points: 22
+CWID: 20000458
+Priority points: 14
+CWID: 20000459
+Priority points: 19
+CWID: 20000460
+Priority points: 21
+CWID: 20000461
+Priority points: 16
+CWID: 20000462
+Priority points: 22
+CWID: 20000463
+Priority points: 24
+CWID: 20000464
+Priority points: 24
+CWID: 20000465
+Priority points: 14
+CWID: 20000466
+Priority points: 19
+CWID: 20000467
+Priority points: 17
+CWID: 20000468
+Priority points: 21
+CWID: 20000469
+Priority points: 21
+CWID: 20000470
+Priority points: 23
+CWID: 20000471
+Priority points: 18
+CWID: 20000472
+Priority points: 22
+CWID: 20000473
+Priority points: 12
+CWID: 20000474
+Priority points: 16
+CWID: 20000475
+Priority points: 13
+CWID: 20000476
+Priority points: 22
+CWID: 20000477
+Priority points: 10
+CWID: 20000478
+Priority points: 19
+CWID: 20000479
+Priority points: 15
+CWID: 20000480
+Priority points: 14
+CWID: 20000481
+Priority points: 11
+CWID: 20000482
+Priority points: 20
+CWID: 20000483
+Priority points: 20
+CWID: 20000484
+Priority points: 22
+CWID: 20000485
+Priority points: 24
+CWID: 20000486
+Priority points: 13
+CWID: 20000487
+Priority points: 22
+CWID: 20000488
+Priority points: 13
+CWID: 20000489
+Priority points: 12
+CWID: 20000490
+Priority points: 26
+CWID: 20000491
+Priority points: 17
+CWID: 20000492
+Priority points: 22
+CWID: 20000493
+Priority points: 17
+CWID: 20000494
+Priority points: 21
+CWID: 20000495
+Priority points: 21
+CWID: 20000496
+Priority points: 19
+CWID: 20000497
+Priority points: 23
+CWID: 20000498
+Priority points: 19
+CWID: 20000499
+Priority points: 16
+CWID: 20000500
+Priority points: 16
+CWID: 20000501
+Priority points: 10
+CWID: 20000502
+Priority points: 20
+CWID: 20000503
+Priority points: 20
+CWID: 20000504
+Priority points: 22
+CWID: 20000505
+Priority points: 19
+CWID: 20000506
+Priority points: 26
+CWID: 20000507
+Priority points: 10
+CWID: 20000508
+Priority points: 12
+CWID: 20000509
+Priority points: 24
+CWID: 20000510
+Priority points: 20
+CWID: 20000511
+Priority points: 11
+CWID: 20000512
+Priority points: 20
+CWID: 20000513
+Priority points: 20
+CWID: 20000514
+Priority points: 15
+CWID: 20000515
+Priority points: 10
+CWID: 20000516
+Priority points: 18
+CWID: 20000517
+Priority points: 11
+CWID: 20000518
+Priority points: 19
+CWID: 20000519
+Priority points: 21
+CWID: 20000520
+Priority points: 14
+CWID: 20000521
+Priority points: 11
+CWID: 20000522
+Priority points: 21
+CWID: 20000523
+Priority points: 15
+CWID: 20000524
+Priority points: 15
+CWID: 20000525
+Priority points: 17
+CWID: 20000526
+Priority points: 26
+CWID: 20000527
+Priority points: 11
+CWID: 20000528
+Priority points: 23
+CWID: 20000529
+Priority points: 13
+CWID: 20000530
+Priority points: 19
+CWID: 20000531
+Priority points: 20
+CWID: 20000532
+Priority points: 25
+CWID: 20000533
+Priority points: 21
+CWID: 20000534
+Priority points: 19
+CWID: 20000535
+Priority points: 18
+CWID: 20000536
+Priority points: 18
+CWID: 20000537
+Priority points: 20
+CWID: 20000538
+Priority points: 11
+CWID: 20000539
+Priority points: 23
+CWID: 20000540
+Priority points: 23
+CWID: 20000541
+Priority points: 17
+CWID: 20000542
+Priority points: 19
+CWID: 20000543
+Priority points: 15
+CWID: 20000544
+Priority points: 11
+CWID: 20000545
+Priority points: 21
+CWID: 20000546
+Priority points: 23
+CWID: 20000547
+Priority points: 13
+CWID: 20000548
+Priority points: 19
+CWID: 20000549
+Priority points: 14
+CWID: 20000550
+Priority points: 25
+CWID: 20000551
+Priority points: 25
+CWID: 20000552
+Priority points: 13
+CWID: 20000553
+Priority points: 15
+CWID: 20000554
+Priority points: 16
+CWID: 20000555
+Priority points: 13
+CWID: 20000556
+Priority points: 12
+CWID: 20000557
+Priority points: 22
+CWID: 20000558
+Priority points: 20
+CWID: 20000559
+Priority points: 23
+CWID: 20000560
+Priority points: 24
+CWID: 20000561
+Priority points: 10
+CWID: 20000562
+Priority points: 24
+CWID: 20000563
+Priority points: 10
+CWID: 20000564
+Priority points: 14
+CWID: 20000565
+Priority points: 13
+CWID: 20000566
+Priority points: 26
+CWID: 20000567
+Priority points: 16
+CWID: 20000568
+Priority points: 11
+CWID: 20000569
+Priority points: 25
+CWID: 20000570
+Priority points: 18
+CWID: 20000571
+Priority points: 11
+CWID: 20000572
+Priority points: 16
+CWID: 20000573
+Priority points: 16
+CWID: 20000574
+Priority points: 22
+CWID: 20000575
+Priority points: 25
+CWID: 20000576
+Priority points: 24
+CWID: 20000577
+Priority points: 22
+CWID: 20000578
+Priority points: 16
+CWID: 20000579
+Priority points: 23
+CWID: 20000580
+Priority points: 26
+CWID: 20000581
+Priority points: 20
+CWID: 20000582
+Priority points: 25
+CWID: 20000583
+Priority points: 17
+CWID: 20000584
+Priority points: 16
+CWID: 20000585
+Priority points: 21
+CWID: 20000586
+Priority points: 26
+CWID: 20000587
+Priority points: 17
+CWID: 20000588
+Priority points: 19
+CWID: 20000589
+Priority points: 14
+CWID: 20000590
+Priority points: 19
+CWID: 20000591
+Priority points: 11
+CWID: 20000592
+Priority points: 19
+CWID: 20000593
+Priority points: 17
+CWID: 20000594
+Priority points: 24
+CWID: 20000595
+Priority points: 19
+CWID: 20000596
+Priority points: 15
+CWID: 20000597
+Priority points: 15
+CWID: 20000598
+Priority points: 12
+CWID: 20000599
+Priority points: 23
+CWID: 20000600
+Priority points: 26
+CWID: 20000601
+Priority points: 10
+CWID: 20000602
+Priority points: 25
+CWID: 20000603
+Priority points: 24
+CWID: 20000604
+Priority points: 13
+CWID: 20000605
+Priority points: 15
+CWID: 20000606
+Priority points: 20
+CWID: 20000607
+Priority points: 23
+CWID: 20000608
+Priority points: 12
+CWID: 20000609
+Priority points: 10
+CWID: 20000610
+Priority points: 13
+CWID: 20000611
+Priority points: 20
+CWID: 20000612
+Priority points: 25
+CWID: 20000613
+Priority points: 25
+CWID: 20000614
+Priority points: 24
+CWID: 20000615
+Priority points: 20
+CWID: 20000616
+Priority points: 10
+CWID: 20000617
+Priority points: 24
+CWID: 20000618
+Priority points: 20
+CWID: 20000619
+Priority points: 11
+CWID: 20000620
+Priority points: 23
+CWID: 20000621
+Priority points: 14
+CWID: 20000622
+Priority points: 11
+CWID: 20000623
+Priority points: 14
+CWID: 20000624
+Priority points: 25
+CWID: 20000625
+Priority points: 26
+CWID: 20000626
+Priority points: 19
+CWID: 20000627
+Priority points: 24
+CWID: 20000628
+Priority points: 17
+CWID: 20000629
+Priority points: 22
+CWID: 20000630
+Priority points: 16
+CWID: 20000631
+Priority points: 11
+CWID: 20000632
+Priority points: 21
+CWID: 20000633
+Priority points: 16
+CWID: 20000634
+Priority points: 14
+CWID: 20000635
+Priority points: 26
+CWID: 20000636
+Priority points: 12
+CWID: 20000637
+Priority points: 23
+CWID: 20000638
+Priority points: 12
+CWID: 20000639
+Priority points: 24
+CWID: 20000640
+Priority points: 11
+CWID: 20000641
+Priority points: 25
+CWID: 20000642
+Priority points: 21
+CWID: 20000643
+Priority points: 12
+CWID: 20000644
+Priority points: 23
+CWID: 20000645
+Priority points: 23
+CWID: 20000646
+Priority points: 12
+CWID: 20000647
+Priority points: 17
+CWID: 20000648
+Priority points: 10
+CWID: 20000649
+Priority points: 12
+CWID: 20000650
+Priority points: 12
+CWID: 20000651
+Priority points: 11
+CWID: 20000652
+Priority points: 13
+CWID: 20000653
+Priority points: 10
+CWID: 20000654
+Priority points: 10
+CWID: 20000655
+Priority points: 12
+CWID: 20000656
+Priority points: 24
+CWID: 20000657
+Priority points: 25
+CWID: 20000658
+Priority points: 10
+CWID: 20000659
+Priority points: 22
+CWID: 20000660
+Priority points: 26
+CWID: 20000661
+Priority points: 16
+CWID: 20000662
+Priority points: 22
+CWID: 20000663
+Priority points: 25
+CWID: 20000664
+Priority points: 26
+CWID: 20000665
+Priority points: 11
+CWID: 20000666
+Priority points: 16
+CWID: 20000667
+Priority points: 13
+CWID: 20000668
+Priority points: 24
+CWID: 20000669
+Priority points: 19
+CWID: 20000670
+Priority points: 19
+CWID: 20000671
+Priority points: 13
+CWID: 20000672
+Priority points: 20
+CWID: 20000673
+Priority points: 17
+CWID: 20000674
+Priority points: 11
+CWID: 20000675
+Priority points: 10
+CWID: 20000676
+Priority points: 17
+CWID: 20000677
+Priority points: 11
+CWID: 20000678
+Priority points: 20
+CWID: 20000679
+Priority points: 21
+CWID: 20000680
+Priority points: 17
+CWID: 20000681
+Priority points: 23
+CWID: 20000682
+Priority points: 16
+CWID: 20000683
+Priority points: 21
+CWID: 20000684
+Priority points: 21
+CWID: 20000685
+Priority points: 22
+CWID: 20000686
+Priority points: 17
+CWID: 20000687
+Priority points: 13
+CWID: 20000688
+Priority points: 24
+CWID: 20000689
+Priority points: 11
+CWID: 20000690
+Priority points: 26
+CWID: 20000691
+Priority points: 10
+CWID: 20000692
+Priority points: 13
+CWID: 20000693
+Priority points: 25
+CWID: 20000694
+Priority points: 21
+CWID: 20000695
+Priority points: 18
+CWID: 20000696
+Priority points: 13
+CWID: 20000697
+Priority points: 26
+CWID: 20000698
+Priority points: 24
+CWID: 20000699
+Priority points: 26
+CWID: 20000700
+Priority points: 12
+CWID: 20000701
+Priority points: 16
+CWID: 20000702
+Priority points: 12
+CWID: 20000703
+Priority points: 14
+CWID: 20000704
+Priority points: 18
+CWID: 20000705
+Priority points: 18
+CWID: 20000706
+Priority points: 19
+CWID: 20000707
+Priority points: 18
+CWID: 20000708
+Priority points: 24
+CWID: 20000709
+Priority points: 20
+CWID: 20000710
+Priority points: 22
+CWID: 20000711
+Priority points: 15
+CWID: 20000712
+Priority points: 23
+CWID: 20000713
+Priority points: 12
+CWID: 20000714
+Priority points: 16
+CWID: 20000715
+Priority points: 16
+CWID: 20000716
+Priority points: 11
+CWID: 20000717
+Priority points: 20
+CWID: 20000718
+Priority points: 14
+CWID: 20000719
+Priority points: 20
+CWID: 20000720
+Priority points: 23
+CWID: 20000721
+Priority points: 15
+CWID: 20000722
+Priority points: 17
+CWID: 20000723
+Priority points: 18
+CWID: 20000724
+Priority points: 17
+CWID: 20000725
+Priority points: 23
+CWID: 20000726
+Priority points: 26
+CWID: 20000727
+Priority points: 16
+CWID: 20000728
+Priority points: 14
+CWID: 20000729
+Priority points: 16
+CWID: 20000730
+Priority points: 11
+CWID: 20000731
+Priority points: 12
+CWID: 20000732
+Priority points: 13
+CWID: 20000733
+Priority points: 21
+CWID: 20000734
+Priority points: 10
+CWID: 20000735
+Priority points: 11
+CWID: 20000736
+Priority points: 21
+CWID: 20000737
+Priority points: 18
+CWID: 20000738
+Priority points: 15
+CWID: 20000739
+Priority points: 10
+CWID: 20000740
+Priority points: 17
+CWID: 20000741
+Priority points: 15
+CWID: 20000742
+Priority points: 14
+CWID: 20000743
+Priority points: 25
+CWID: 20000744
+Priority points: 13
+CWID: 20000745
+Priority points: 25
+CWID: 20000746
+Priority points: 11
+CWID: 20000747
+Priority points: 26
+CWID: 20000748
+Priority points: 20
+CWID: 20000749
+Priority points: 14
+CWID: 20000750
+Priority points: 11
+CWID: 20000751
+Priority points: 21
+CWID: 20000752
+Priority points: 20
+CWID: 20000753
+Priority points: 20
+CWID: 20000754
+Priority points: 21
+CWID: 20000755
+Priority points: 23
+CWID: 20000756
+Priority points: 23
+CWID: 20000757
+Priority points: 20
+CWID: 20000758
+Priority points: 19
+CWID: 20000759
+Priority points: 15
+CWID: 20000760
+Priority points: 20
+CWID: 20000761
+Priority points: 24
+CWID: 20000762
+Priority points: 13
+CWID: 20000763
+Priority points: 19
+CWID: 20000764
+Priority points: 18
+CWID: 20000765
+Priority points: 10
+CWID: 20000766
+Priority points: 20
+CWID: 20000767
+Priority points: 17
+CWID: 20000768
+Priority points: 11
+CWID: 20000769
+Priority points: 13
+CWID: 20000770
+Priority points: 26
+CWID: 20000771
+Priority points: 19
+CWID: 20000772
+Priority points: 13
+CWID: 20000773
+Priority points: 23
+CWID: 20000774
+Priority points: 16
+CWID: 20000775
+Priority points: 23
+CWID: 20000776
+Priority points: 13
+CWID: 20000777
+Priority points: 21
+CWID: 20000778
+Priority points: 11
+CWID: 20000779
+Priority points: 26
+CWID: 20000780
+Priority points: 22
+CWID: 20000781
+Priority points: 19
+CWID: 20000782
+Priority points: 10
+CWID: 20000783
+Priority points: 16
+CWID: 20000784
+Priority points: 23
+CWID: 20000785
+Priority points: 17
+CWID: 20000786
+Priority points: 13
+CWID: 20000787
+Priority points: 16
+CWID: 20000788
+Priority points: 10
+CWID: 20000789
+Priority points: 18
+CWID: 20000790
+Priority points: 26
+CWID: 20000791
+Priority points: 23
+CWID: 20000792
+Priority points: 20
+CWID: 20000793
+Priority points: 12
+CWID: 20000794
+Priority points: 19
+CWID: 20000795
+Priority points: 19
+CWID: 20000796
+Priority points: 14
+CWID: 20000797
+Priority points: 22
+CWID: 20000798
+Priority points: 12
+CWID: 20000799
+Priority points: 15
+CWID: 20000800
+Priority points: 21
+CWID: 20000801
+Priority points: 23
+CWID: 20000802
+Priority points: 22
+CWID: 20000803
+Priority points: 26
+CWID: 20000804
+Priority points: 11
+CWID: 20000805
+Priority points: 13
+CWID: 20000806
+Priority points: 26
+CWID: 20000807
+Priority points: 17
+CWID: 20000808
+Priority points: 25
+CWID: 20000809
+Priority points: 10
+CWID: 20000810
+Priority points: 25
+CWID: 20000811
+Priority points: 24
+CWID: 20000812
+Priority points: 10
+CWID: 20000813
+Priority points: 22
+CWID: 20000814
+Priority points: 17
+CWID: 20000815
+Priority points: 25
+CWID: 20000816
+Priority points: 10
+CWID: 20000817
+Priority points: 10
+CWID: 20000818
+Priority points: 25
+CWID: 20000819
+Priority points: 16
+CWID: 20000820
+Priority points: 25
+CWID: 20000821
+Priority points: 10
+CWID: 20000822
+Priority points: 25
+CWID: 20000823
+Priority points: 12
+CWID: 20000824
+Priority points: 10
+CWID: 20000825
+Priority points: 25
+CWID: 20000826
+Priority points: 18
+CWID: 20000827
+Priority points: 22
+CWID: 20000828
+Priority points: 17
+CWID: 20000829
+Priority points: 19
+CWID: 20000830
+Priority points: 11
+CWID: 20000831
+Priority points: 10
+CWID: 20000832
+Priority points: 22
+CWID: 20000833
+Priority points: 14
+CWID: 20000834
+Priority points: 20
+CWID: 20000835
+Priority points: 15
+CWID: 20000836
+Priority points: 14
+CWID: 20000837
+Priority points: 22
+CWID: 20000838
+Priority points: 21
+CWID: 20000839
+Priority points: 23
+CWID: 20000840
+Priority points: 10
+CWID: 20000841
+Priority points: 10
+CWID: 20000842
+Priority points: 23
+CWID: 20000843
+Priority points: 20
+CWID: 20000844
+Priority points: 13
+CWID: 20000845
+Priority points: 15
+CWID: 20000846
+Priority points: 22
+CWID: 20000847
+Priority points: 22
+CWID: 20000848
+Priority points: 15
+CWID: 20000849
+Priority points: 13
+CWID: 20000850
+Priority points: 15
+CWID: 20000851
+Priority points: 13
+CWID: 20000852
+Priority points: 22
+CWID: 20000853
+Priority points: 10
+CWID: 20000854
+Priority points: 18
+CWID: 20000855
+Priority points: 10
+CWID: 20000856
+Priority points: 24
+CWID: 20000857
+Priority points: 14
+CWID: 20000858
+Priority points: 19
+CWID: 20000859
+Priority points: 15
+CWID: 20000860
+Priority points: 13
+CWID: 20000861
+Priority points: 11
+CWID: 20000862
+Priority points: 12
+CWID: 20000863
+Priority points: 24
+CWID: 20000864
+Priority points: 12
+CWID: 20000865
+Priority points: 18
+CWID: 20000866
+Priority points: 12
+CWID: 20000867
+Priority points: 13
+CWID: 20000868
+Priority points: 23
+CWID: 20000869
+Priority points: 15
+CWID: 20000870
+Priority points: 23
+CWID: 20000871
+Priority points: 16
+CWID: 20000872
+Priority points: 11
+CWID: 20000873
+Priority points: 24
+CWID: 20000874
+Priority points: 20
+CWID: 20000875
+Priority points: 16
+CWID: 20000876
+Priority points: 15
+CWID: 20000877
+Priority points: 18
+CWID: 20000878
+Priority points: 21
+CWID: 20000879
+Priority points: 17
+CWID: 20000880
+Priority points: 20
+CWID: 20000881
+Priority points: 11
+CWID: 20000882
+Priority points: 19
+CWID: 20000883
+Priority points: 22
+CWID: 20000884
+Priority points: 12
+CWID: 20000885
+Priority points: 11
+CWID: 20000886
+Priority points: 13
+CWID: 20000887
+Priority points: 16
+CWID: 20000888
+Priority points: 20
+CWID: 20000889
+Priority points: 16
+CWID: 20000890
+Priority points: 10
+CWID: 20000891
+Priority points: 10
+CWID: 20000892
+Priority points: 25
+CWID: 20000893
+Priority points: 13
+CWID: 20000894
+Priority points: 25
+CWID: 20000895
+Priority points: 17
+CWID: 20000896
+Priority points: 17
+CWID: 20000897
+Priority points: 24
+CWID: 20000898
+Priority points: 10
+CWID: 20000899
+Priority points: 16
+CWID: 20000900
+Priority points: 25
+CWID: 20000901
+Priority points: 20
+CWID: 20000902
+Priority points: 25
+CWID: 20000903
+Priority points: 15
+CWID: 20000904
+Priority points: 21
+CWID: 20000905
+Priority points: 13
+CWID: 20000906
+Priority points: 22
+CWID: 20000907
+Priority points: 23
+CWID: 20000908
+Priority points: 17
+CWID: 20000909
+Priority points: 24
+CWID: 20000910
+Priority points: 23
+CWID: 20000911
+Priority points: 17
+CWID: 20000912
+Priority points: 10
+CWID: 20000913
+Priority points: 12
+CWID: 20000914
+Priority points: 22
+CWID: 20000915
+Priority points: 10
+CWID: 20000916
+Priority points: 12
+CWID: 20000917
+Priority points: 26
+CWID: 20000918
+Priority points: 17
+CWID: 20000919
+Priority points: 15
+CWID: 20000920
+Priority points: 23
+CWID: 20000921
+Priority points: 20
+CWID: 20000922
+Priority points: 21
+CWID: 20000923
+Priority points: 26
+CWID: 20000924
+Priority points: 12
+CWID: 20000925
+Priority points: 25
+CWID: 20000926
+Priority points: 20
+CWID: 20000927
+Priority points: 14
+CWID: 20000928
+Priority points: 26
+CWID: 20000929
+Priority points: 11
+CWID: 20000930
+Priority points: 21
+CWID: 20000931
+Priority points: 26
+CWID: 20000932
+Priority points: 14
+CWID: 20000933
+Priority points: 10
+CWID: 20000934
+Priority points: 26
+CWID: 20000935
+Priority points: 20
+CWID: 20000936
+Priority points: 25
+CWID: 20000937
+Priority points: 17
+CWID: 20000938
+Priority points: 14
+CWID: 20000939
+Priority points: 24
+CWID: 20000940
+Priority points: 14
+CWID: 20000941
+Priority points: 19
+CWID: 20000942
+Priority points: 13
+CWID: 20000943
+Priority points: 19
+CWID: 20000944
+Priority points: 11
+CWID: 20000945
+Priority points: 15
+CWID: 20000946
+Priority points: 15
+CWID: 20000947
+Priority points: 20
+CWID: 20000948
+Priority points: 11
+CWID: 20000949
+Priority points: 20
+CWID: 20000950
+Priority points: 10
+CWID: 20000951
+Priority points: 17
+CWID: 20000952
+Priority points: 26
+CWID: 20000953
+Priority points: 12
+CWID: 20000954
+Priority points: 16
+CWID: 20000955
+Priority points: 17
+CWID: 20000956
+Priority points: 14
+CWID: 20000957
+Priority points: 11
+CWID: 20000958
+Priority points: 19
+CWID: 20000959
+Priority points: 14
+CWID: 20000960
+Priority points: 24
+CWID: 20000961
+Priority points: 12
+CWID: 20000962
+Priority points: 20
+CWID: 20000963
+Priority points: 20
+CWID: 20000964
+Priority points: 19
+CWID: 20000965
+Priority points: 23
+CWID: 20000966
+Priority points: 21
+CWID: 20000967
+Priority points: 19
+CWID: 20000968
+Priority points: 25
+CWID: 20000969
+Priority points: 26
+CWID: 20000970
+Priority points: 16
+CWID: 20000971
+Priority points: 19
+CWID: 20000972
+Priority points: 17
+CWID: 20000973
+Priority points: 19
+CWID: 20000974
+Priority points: 26
+CWID: 20000975
+Priority points: 11
+CWID: 20000976
+Priority points: 25
+CWID: 20000977
+Priority points: 13
+CWID: 20000978
+Priority points: 12
+CWID: 20000979
+Priority points: 17
+CWID: 20000980
+Priority points: 11
+CWID: 20000981
+Priority points: 21
+CWID: 20000982
+Priority points: 22
