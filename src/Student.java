@@ -4,17 +4,16 @@ import java.util.*;
 public class Student {
     private int cwid;
     private double points;
-    private int groupID;
-    public static Queue<Student> dents = new LinkedList<>();
+
+    public static Queue<Student> students = new LinkedList<>();
     public Student(int cwid, double points){
         this.cwid=cwid;
         this.points= points;
-        //this.groupID=groupID;
     }
 
-    static void createStudents(){
+    static void createStudents(int numStu){
         Random random = new Random();
-        for(int i=1;i<=982;i++){
+        for(int i=1;i<=numStu;i++){
             try{
                 PrintWriter writer=new PrintWriter(new FileWriter("AllStudents.txt",true));
                 writer.write("CWID: "+(20000000+i));
@@ -31,7 +30,7 @@ public class Student {
         }
     }
     public static Queue<Student> getStudents() {
-        return dents;
+        return students;
     }
     public double getpPoints(){
         return points;
@@ -42,7 +41,7 @@ public class Student {
 
     public static void putStuInList() {
         //createStudents();
-        dents.clear();
+        students.clear();
         try (BufferedReader reader = new BufferedReader(new FileReader("AllStudents.txt"))) {
             String line;
             String name = null;
@@ -53,13 +52,24 @@ public class Student {
                     cwid = Integer.parseInt(line.substring(6));
                 } else if (line.startsWith("Priority points: ")) {
                     ppoints = Integer.parseInt(line.substring(17));
-                    dents.add(new Student(cwid, ppoints));
+                    students.add(new Student(cwid, ppoints));
                 }
             }
         } catch (IOException e) {
             System.err.println("Error reading file: " + e.getMessage());
         }
 
+    }
+    public static void clearStuTxt() {
+        String filePath = "AllStudents.txt";
+        try {
+            FileWriter fileWriter = new FileWriter(filePath);
+            fileWriter.close();
+
+        } catch (IOException e) {
+            System.out.println("An error occurred: " + e.getMessage());
+            e.printStackTrace();
+        }
     }
 
 }

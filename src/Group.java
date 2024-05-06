@@ -6,23 +6,20 @@ import java.util.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.io.FileWriter;
-import java.io.IOException;
 
 public class Group {
     private List<Integer> preferences;
     public String endHouse;
     private int groupID;
     private double points;
-    private List<Student> stus;
+    private List<Student> studentList;
     public static List<Group> groups = new ArrayList<>();
     static Queue<Student> dents = Student.getStudents();
 
 
     public Group(int gID) {
         int numPpl = 10;
-        stus = new ArrayList<>();
-        List<Student> stus = new ArrayList<>();
+        studentList = new ArrayList<>();
         groupID = gID;
         points = 0;
         List<Integer> pref=new ArrayList<>();
@@ -39,13 +36,13 @@ public class Group {
         return preferences;
     }
     private void addStudent(Student student) {
-        stus.add(student);
+        studentList.add(student);
     }
     private void calcPpoints(){
-        for(Student s: stus){
+        for(Student s: studentList){
             points+=s.getpPoints();
         }
-        points = Math.round((points / stus.size()) * 100.0)/100.0;
+        points = Math.round((points / studentList.size()) * 100.0)/100.0;
     }
     public double getPoints(){
         return points;
@@ -79,6 +76,10 @@ public class Group {
                 PrintWriter writer=new PrintWriter(new FileWriter("CompleteGroups.txt",true));
                 writer.write("GroupID: "+(g.groupID));
                 writer.write("\n");
+                for(Student s: g.studentList){
+                    writer.write("Student: "+ s.getCwid());
+                    writer.write("\n");}
+
                 writer.write("House in: "+(g.endHouse));
                 writer.write("\n");
                 writer.close();
@@ -91,7 +92,7 @@ public class Group {
         }
 
     }
-    public static void clearTxt() {
+    public static void clearGroupTxt() {
         String filePath = "CompleteGroups.txt";
         try {
             FileWriter fileWriter = new FileWriter(filePath);

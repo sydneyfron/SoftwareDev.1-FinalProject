@@ -51,7 +51,6 @@ public class House {
     }
 
     public static void houseList() {
-        //List<House> houses = new ArrayList<>();
         try (BufferedReader reader = new BufferedReader(new FileReader("HousingOptions.txt"))) {
             String line;
             String name = null;
@@ -72,15 +71,14 @@ public class House {
         }
     }
     public static void main(String[]args){
-        houseList();
-        // Displaying the houses read from the file
+        /*houseList();
         for (House house : houses) {
             System.out.println("House Name: " + house.getHName());
             System.out.println("People Per House: " + house.getPerHouse());
             System.out.println("Number of Houses: " + house.getNumOfHouse());
             System.out.println();
 
-        }System.out.println(houses.size());
+        }System.out.println(houses.size());*/
     }
 
 
