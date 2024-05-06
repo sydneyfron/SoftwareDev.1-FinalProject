@@ -14,7 +14,7 @@ public class Group {
     private double points;
     private List<Student> studentList;
     public static List<Group> groups = new ArrayList<>();
-    static Queue<Student> dents = Student.getStudents();
+    static Queue<Student> students = Student.getStudents();
 
 
     public Group(int gID) {
@@ -53,12 +53,12 @@ public class Group {
     }
     static void createGroups(){
         for(int i=1;i<=400;i++){
-            if(dents.size()>0) {
+            if(students.size()>0) {
                 Group g=new Group(i);
                 groups.add(g);
                 for(int s=1;s<=10;s++){
-                    if(dents.size()>0){
-                        g.addStudent(dents.poll());
+                    if(students.size()>0){
+                        g.addStudent(students.poll());
 
                     }
 
